@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1785565518372,
+    "type": "lost",
+    "item_name": "Earbuds",
+    "category": "Electronics",
+    "location": "Tiruvallur Railway Station",
+    "date_text": "2026-07-14",
+    "description": "",
+    "contact": "manipriyan4444@gmail.com",
+    "status": "claimed",
+    "created_at": "2026-08-01T06:25:18.372Z"
+  },
+  {
+    "id": 1785565592421,
+    "type": "found",
+    "item_name": "Earbuds",
+    "category": "Electronics",
+    "location": "Tiruvallur Railway Station",
+    "date_text": "2026-07-14",
+    "description": "",
+    "contact": "manipriyan4444@gmail.com",
+    "status": "claimed",
+    "created_at": "2026-08-01T06:26:32.421Z"
+  },
+  {
+    "id": 1785566198761,
+    "type": "lost",
+    "item_name": "Phone",
+    "category": "Electronics",
+    "location": "Library",
+    "date_text": "2026-07-31",
+    "description": "",
+    "contact": "manipriyan4444@gmail.com",
+    "status": "matched",
+    "created_at": "2026-08-01T06:36:38.761Z",
+    "matchedWith": 1785566674471
+  },
+  {
+    "id": 1785566208149,
+    "type": "found",
+    "item_name": "Phone",
+    "category": "Bags",
+    "location": "Library",
+    "date_text": "2026-07-29",
+    "description": "",
+    "contact": "manipriyan4444@gmail.com",
+    "status": "claimed",
+    "created_at": "2026-08-01T06:36:48.149Z",
+    "matchedWith": 1785566615809
+  }
+]
